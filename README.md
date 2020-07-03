@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working at [Greenmobility](https://www.greenmobility.com/dk/da/)
+👪 I'm a [GDG](https://developers.google.com/community/gdg) organizer and a member of [ACM](acm.org)
+💬 Ask me about Community, Developer Relations, Cloud Computing and Backend Development!
+📫 How to reach me: I usually am at the [movies](https://parismulticines.com/) or spending some time listening to and learning about [music](https://open.spotify.com/user/2dffib36da8z9fmdluq0j9o0v?si=RP--CFyfSgW7OfEMMeMpiQ), but I always read my emails :)
 
 <!--
 **aabedraba/aabedraba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
