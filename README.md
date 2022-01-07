@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-🔭 I’m currently working at [Greenmobility](https://www.greenmobility.com/dk/da/)
  
 👪 I'm a [GDG](https://developers.google.com/community/gdg) organizer and a member of [ACM](acm.org)
  
