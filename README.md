@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-💻 I work as a Product Manager @ [Kubeshop](https://github.com/kubeshop)   
+💻 I work as a Developer Advocate @ [Zuplo](https://zuplo.com)   
 📫 How to reach me: I usually am at the [movies](https://parismulticines.com/) or spending some time listening and learning about [music](https://open.spotify.com/user/2dffib36da8z9fmdluq0j9o0v?si=RP--CFyfSgW7OfEMMeMpiQ), but I always read my emails :)
 
 <!--
